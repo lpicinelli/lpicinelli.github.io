@@ -9,9 +9,9 @@ This page serves as a repository for my coursework and academic interest.
 
 ## Seminars and Thesis 
 * **Bachelor's Thesis:** [An Introduction to Persistent Homology](TesiLorenzoPicinelli.pdf)
-* **Algebraic Geometry B Seminar:** [Oka's Lemma](Semario_GAB%20(1).pdf)
+* **Algebraic Geometry B Seminar:** [Oka's Lemma](Seminario_GAB%20(1).pdf)
 * **Abstract Algebra Seminar:** [Fulton-Hansen's Theorem](Seminario_algsup.pdf)
-* **Algebraic Geometry C Seminar:** [Kontsevich's Formula](Semario_gac%20(1).pdf)
+* **Algebraic Geometry C Seminar:** [Kontsevich's Formula](Seminario_gac%20(1).pdf)
 * **Category Theory Seminar:** [Derived Categories](Seminario_categorie%20(1).pdf)
   
 ## Contact & Links 
